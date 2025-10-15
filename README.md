@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 - :hourglass: Изучаю веб программирование, вычислительные машины, комплексы, системы и сети.
 
-- :mailbox:Свяжитесь со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=flat)](https://t.me/DimaGavDi)
-
 ---
 
 ### :hammer_and_wrench: Языки и инструменты которые я использую :
