@@ -23,7 +23,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>   
   </div>
-  <img src="https://komarev.com/ghpvc/?username=GavDi&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
